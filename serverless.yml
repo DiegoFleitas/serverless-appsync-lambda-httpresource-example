@@ -1,4 +1,4 @@
-service: serverless-appsync-lambda-httpresource-example
+service: sls-appsync-lambda
 
 provider:
   name: aws
