@@ -1,4 +1,4 @@
-const emulator = require('@conduitvc/dynamodb-emulator/client')
+const emulator = require('@conduitvc/dynamodb-emulator');
 
 async function main() {
   console.log('Starting systems...')
